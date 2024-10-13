@@ -4,13 +4,12 @@
 </div>
 
 # 🔍Visão Geral
+  Essa imersão oferecida pela Alura, introduz os conceitos de HTML e CSS voltados ao Front-End. Desenvolvendo um projeto prático de um clone do Spotify usando React + JavaScript.
 
 <div align="center">
   <h3> 💻Tecnologias Aprendidas</h3>
   <img src="https://iconsverse.vercel.app/icons?i=html,css,js,nodejs,react" alt="Tecnologias Aprendidas">
 </div>
-
-# 📚Conteúdo Abordado
 
 # 🏅Certificado
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
@@ -19,15 +18,18 @@
 ### 🔧Ferramentas
   - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 
+### 📦Linguagens e Pacotes
+  - <a href="https://nodejs.org/en/download/package-manager">NodeJS</a>  
+
 ### 📖Guias de Referência
   - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
   - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
   - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
-  - <a href="">NodeJS</a>
-  - <a href="">React</a>
+  - <a href="https://nodejs.org/docs/latest/api/">NodeJS</a>
+  - <a href="https://legacy.reactjs.org/docs/getting-started.html">React</a>
 
 ### 📎Curso
-  - <a href="">Imersão React</a>
+  - <a href="https://www.alura.com.br/promocao/imersao-front-end?utm_source=influenciadores&utm_medium=imersao-front-end&utm_campaign=alwayson">Imersão React</a>
 
 # 📬Contato
 <div align="center"> 
